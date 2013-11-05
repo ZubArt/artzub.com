@@ -1,0 +1,21 @@
+[submodule "ghv"]
+	path = ghv
+	url = https://github.com/artzub/GitHubVisualizer.git
+[submodule "oly"]
+	path = oly
+	url = https://github.com/artzub/gexf-js.git
+[submodule "plusart"]
+	path = plusart
+	url = https://github.com/artzub/Plusart.git
+[submodule "d3/dbsv"]
+	path = d3/dbsv
+	url = https://github.com/artzub/dbsv.git
+[submodule "d3/olyspace"]
+	path = d3/olyspace
+	url = https://github.com/artzub/olyspace.git
+[submodule "works/hhapi"]
+	path = works/hhapi
+	url = https://github.com/artzub/hhapi.git
+[submodule "works/si"]
+	path = works/si
+	url = https://github.com/artzub/si.git
