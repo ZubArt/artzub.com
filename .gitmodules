@@ -19,3 +19,7 @@
 [submodule "works/si"]
 	path = works/si
 	url = https://github.com/artzub/si.git
+[submodule "d3/wbca"]
+	path = d3/wbca
+	url = git@github.com:artzub/wbgds.git
+	branch = smy
