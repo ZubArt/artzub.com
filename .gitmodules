@@ -7,8 +7,8 @@
 [submodule "plusart"]
 	path = plusart
 	url = https://github.com/artzub/Plusart.git
-[submodule "d3/dbsv"]
-	path = d3/dbsv
+[submodule "d3/sv"]
+	path = d3/sv
 	url = https://github.com/artzub/dbsv.git
 [submodule "d3/olyspace"]
 	path = d3/olyspace
