@@ -23,3 +23,9 @@
 	path = d3/wbca
 	url = git@github.com:artzub/wbgds.git
 	branch = smy
+[submodule "lib/js/d3tooltipjs"]
+	path = lib/js/d3tooltipjs
+	url = git@github.com:artzub/d3tooltipjs.git
+[submodule "lib/js/d3progressbarjs"]
+	path = lib/js/d3progressbarjs
+	url = git@github.com:artzub/d3progressbarjs.git
