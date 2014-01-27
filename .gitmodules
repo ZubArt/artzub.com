@@ -29,3 +29,6 @@
 [submodule "lib/js/d3progressbarjs"]
 	path = lib/js/d3progressbarjs
 	url = git@github.com:artzub/d3progressbarjs.git
+[submodule "blackhole"]
+	path = blackhole
+	url = git@github.com:artzub/blackhole.git
