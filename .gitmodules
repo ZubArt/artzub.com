@@ -28,7 +28,10 @@
 	url = git@github.com:artzub/d3tooltipjs.git
 [submodule "lib/js/d3progressbarjs"]
 	path = lib/js/d3progressbarjs
-	url = git@github.com:artzub/d3progressbarjs.git
-[submodule "blackhole"]
-	path = blackhole
-	url = git@github.com:artzub/blackhole.git
+	url = git@github.com:artzub/d3progressbarjs.git 
+[submodule "lib/js/blackhole.js"]
+	path = lib/js/blackhole.js
+	url = git@github.com:artzub/blackhole.js.git
+[submodule "d3/clearspending"]
+	path = d3/clearspending
+	url = git@github.com:artzub/clearspending.git
