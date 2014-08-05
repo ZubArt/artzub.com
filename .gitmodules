@@ -35,3 +35,9 @@
 [submodule "d3/clearspending"]
 	path = d3/clearspending
 	url = git@github.com:artzub/clearspending.git
+[submodule "GAV"]
+	path = GAV
+	url = git@github.com:ProdigalCode/GAV.git
+[submodule "works/luckylunch"]
+	path = works/luckylunch
+	url = git@github.com:artzub/luckylunch.git
