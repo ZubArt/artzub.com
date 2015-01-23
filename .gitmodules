@@ -44,3 +44,6 @@
 [submodule "works/demetris"]
 	path = works/demetris
 	url = https://artzub@bitbucket.org/artzub/demetris.git
+[submodule "budgetapps"]
+	path = budgetapps
+	url = git@github.com:artzub/budgetapps.git
