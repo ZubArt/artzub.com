@@ -32,8 +32,8 @@
 [submodule "lib/js/blackhole.js"]
 	path = lib/js/blackhole.js
 	url = git@github.com:artzub/blackhole.js.git
-[submodule "d3/clearspending"]
-	path = d3/clearspending
+[submodule "clearspending"]
+	path = clearspending
 	url = git@github.com:artzub/clearspending.git
 [submodule "GAV"]
 	path = GAV
@@ -41,3 +41,6 @@
 [submodule "works/luckylunch"]
 	path = works/luckylunch
 	url = git@github.com:artzub/luckylunch.git
+[submodule "works/demetris"]
+	path = works/demetris
+	url = https://artzub@bitbucket.org/artzub/demetris.git
