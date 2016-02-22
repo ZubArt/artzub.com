@@ -47,3 +47,10 @@
 [submodule "budgetapps"]
 	path = budgetapps
 	url = git@github.com:artzub/budgetapps.git
+[submodule "d3/v23"]
+	path = d3/v23
+	url = git@github.com:artzub/wbgds.git
+[submodule "bb"]
+	path = bb
+	url = git@bitbucket.org:artzub/bb.git
+
