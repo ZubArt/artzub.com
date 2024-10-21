@@ -326,7 +326,7 @@ h3 {
 }
 
 .follow>div {
-  width: 250px;
+  width: 300px;
   margin-right: 10px;
   margin-bottom: 10px;
   border: 3px solid #ddd;
@@ -359,7 +359,7 @@ h3 {
   position: absolute;
   bottom: 0;
   z-index: 10;
-  width: 250px;
+  width: 300px;
   text-align: center;
   color: #e3eef5;
   text-shadow: 1px 1px 0 black;
@@ -384,7 +384,7 @@ h3 {
 }
 
 .follow>div>div:hover>div div {
-  max-height: 250px;
+  max-height: 300px;
   /*border-top: 1px solid #E4EBF2;*/
 
   -webkit-transition: max-height 0.2s ease-in-out 0.4s;
@@ -467,7 +467,7 @@ and (max-device-width : 640px) {
 
 #pub {
   text-align: start;
-  font-size: 16px";
+  font-size: 16px;
 }
 
 #pub li {
